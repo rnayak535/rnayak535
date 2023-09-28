@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rnayak535
-- 👀 I’m interested in PHP, React JS, React Native, MySql, Jquery
-- 🌱 I’m currently learning React Native
+- 👀 I have experience in JavaScript, React JS, SQL, MySql, Jquery
+- 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
